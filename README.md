@@ -8,7 +8,7 @@ Most parallel ROMs in DIP-32 packages with 8-bit memory organization should work
 
 ### Compatible ROM Chips
 
-The following DIP-32 8-bit EPROM/ROM chips are compatible with this design:
+The following DIP-32 8-bit *ROM chips have been tested and confirmed working with this design:
 
 | Chip Model | Capacity | Organization | Jumpers |
 |------------|----------|--------------|---------|
